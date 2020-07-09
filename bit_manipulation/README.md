@@ -5,3 +5,4 @@ https://docs.python.org/3/library/stdtypes.html#bitwise-operations-on-integer-ty
 https://wiki.python.org/moin/BitManipulation
 https://wiki.python.org/moin/BitwiseOperators
 https://www.tutorialspoint.com/python3/bitwise_operators_example.htm
+https://www.geeksforgeeks.org/python-bitwise-operators/
